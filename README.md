@@ -1,9 +1,4 @@
 # Sobre mim
-
-##
-
-#### Teste
-
 - 👋 Hi, I’m @sophiiimillena
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
