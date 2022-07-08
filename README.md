@@ -1,10 +1,5 @@
 # Sobre mim
 - 👋 Hi, I’m @sophiiimillena
--   meu email de contato é  b.sophia@.pr.gov.br
-- 👀  eu estou interresado em aprender a progamar novas linguas  
-- 💞️ eu estou 
-
-<!---
-sophiiimillena/sophiiimillena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :+1: My contact email is b.sophia@.pr.gov.br
+- 👀 I am interested in learning to program new languages  
+- 💞️ I'm learning to program recently the language of JavaScript and Scratch
